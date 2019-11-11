@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/powerShellcpp.dir/main.cpp.o  -o powerShellcpp 

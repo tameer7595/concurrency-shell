@@ -1,0 +1,3 @@
+/home/tameer/CLionProjects/powerShellcpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tameer/CLionProjects/powerShellcpp/cmake-build-debug/CMakeFiles/powerShellcpp.dir
+/home/tameer/CLionProjects/powerShellcpp/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tameer/CLionProjects/powerShellcpp/main.cpp
+iostream
+-
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+vector
+-
+sstream
+-
+cstdlib
+-
+sys/wait.h
+-
+
